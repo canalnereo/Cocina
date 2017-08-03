@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>cocina</title>
+<title>[COLOR lime]Recetas de Pollo[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/canalnereo/Cocina/master/test1.xml</externallink>
 </item>
  
 <item>
@@ -13,9 +13,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/canalnereo/Cocina/master/cocina2.xml</externallink>
 </item>
  
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
 <item>
 <title></title>
 <thumbnail></thumbnail>
